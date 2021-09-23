@@ -1,0 +1,18 @@
+ @font-face {
+    font-family:'Hind';
+    src:url('../fontes/Hind-Regular.ttf');
+    font-weight: normal;
+ }
+
+   @font-face {
+    font-family:'Hind';
+    src:url('../fontes/Hind-Bold.ttf');
+    font-weight: 600; 
+ }
+
+ @font-face {
+    font-family:'Hind';
+    src:url('../fontes/Hind-Light.ttf');
+    font-weight: 300;
+ 
+}
